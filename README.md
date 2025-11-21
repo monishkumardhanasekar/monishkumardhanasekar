@@ -36,8 +36,6 @@
 
 <hr>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monishkumardhanasekar" alt="monishkumardhanasekar" /></a> </p>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
