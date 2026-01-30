@@ -65,7 +65,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=monishkumardhanasekar&show_icons=true&locale=en&layout=compact" alt="monishkumardhanasekar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monishkumardhanasekar&" alt="monishkumardhanasekar" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
