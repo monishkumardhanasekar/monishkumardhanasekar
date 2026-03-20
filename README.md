@@ -4,7 +4,7 @@
 
 <h1>Hi 👋 I'm Monish Kumar Dhanasekar</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MS+Computer+Science+Graduate;AI+%7C+Cloud+%7C+Backend+Focused;Building+Impactful+Software" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+Software+Engineer;MS+Computer+Science+Graduate;AI+%7C+Cloud+%7C+Backend+Focused;Building+Impactful+Software" />
 
 </div>
 
@@ -66,6 +66,15 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 ![Oracle](https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle)
+
+### AI & Emerging Tech
+
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-black?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-blueviolet?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-orange?style=for-the-badge)
+![Vector DB](https://img.shields.io/badge/Vector%20Databases-green?style=for-the-badge)
+![VAPI](https://img.shields.io/badge/VAPI-grey?style=for-the-badge)
 
 ### Cloud & Tools
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
